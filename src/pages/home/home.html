@@ -11,4 +11,10 @@
   <p>
     If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
   </p>
+
+  <input type="text" [(ngModel)]="name" pInputText>
+  <button type="button" pButton label="Click" icon="fa fa-check" (click)="onClick()"></button>
+
+  <div>{{message}}</div>
+
 </ion-content>
