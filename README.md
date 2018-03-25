@@ -49,6 +49,9 @@ System:
 
 # Ionic and PrimeNG update for Node 8 and npm 5
 
+
+Details in [this commit](https://github.com/peterennis/aeprime/commit/f6500b32d4859fb9a929356686bf24a45d6cc557) to see the details.
+
 The latest node-sass is needed to successfully compile.
 
 ```
