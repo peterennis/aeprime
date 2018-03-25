@@ -1,7 +1,7 @@
 {
   "name": "aeprime",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
+  "version": "0.0.2",
+  "author": "adaept",
   "homepage": "http://ionicframework.com/",
   "private": true,
   "scripts": {
@@ -26,18 +26,19 @@
     "@ionic-native/splash-screen": "3.10.2",
     "@ionic-native/status-bar": "3.10.2",
     "@ionic/storage": "2.0.1",
-    "ionic-angular": "3.4.2",
-    "ionicons": "3.0.0",
     "core-js": "^2.4.1",
     "font-awesome": "^4.7.0",
+    "ionic-angular": "3.4.2",
+    "ionicons": "3.0.0",
+    "node-sass": "^4.8.3",
+    "npm": "^5.8.0",
     "primeng": "4.0.3",
     "rxjs": "5.4.0",
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.12"
   },
   "devDependencies": {
-    "@ionic/app-scripts": "1.3.7",
-    "@ionic/cli-plugin-ionic-angular": "1.3.1",
+    "@ionic/app-scripts": "^3.1.8",
     "typescript": "2.3.3"
   },
   "config": {
